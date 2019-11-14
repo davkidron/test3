@@ -12,7 +12,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Helllo");
             Console.WriteLine("123458867");
-            Console.WriteLine("@@@@@@@@@@");
+            Console.WriteLine("@@@@++++++++++@@@@@@");
         }
     }
 }
